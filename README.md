@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# ERC721e
 
 Ready to start minting your own NFTs safely and comfortably with one simple codebase? Interested in admin controls and universal PFP recognition? Look no further than this simple upgrade to the ERC721 standard.
 
